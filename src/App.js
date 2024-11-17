@@ -1,5 +1,5 @@
 import React from 'react';
-import MeuFragmento from './componente/MeuFragmento';
+import MeuFragmento from './Componente/MeuFragmento'
 
 function app() {
   return (
